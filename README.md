@@ -6,23 +6,23 @@ This repository contains a set of Jupyter notebooks that showcase solutions to c
 
 ---
 
-## 🧠 📚 What’s Inside
+##  What’s Inside
 
 Each notebook focuses on a theme:
 
 | Notebook | Content |
 |----------|---------|
-| 🧩 `HackerRank Problems.ipynb` | Solutions to HackerRank practice challenges |
-| 🚀 `Interview_prep.ipynb` | Common interview problems and solutions |
-| 🔢 `LeetCode.ipynb` | LeetCode algorithms & practice |
-| 🧪 `python_practice_problems.ipynb` | General Python exercises |
-| 🧠 `py ='Topic_wise'+'add'.ipynb` | Topic-wise code examples |
+|  `HackerRank Problems.ipynb` | Solutions to HackerRank practice challenges |
+|  `Interview_prep.ipynb` | Common interview problems and solutions |
+|  `LeetCode.ipynb` | LeetCode algorithms & practice |
+|  `python_practice_problems.ipynb` | General Python exercises |
+|  `py ='Topic_wise'+'add'.ipynb` | Topic-wise code examples |
 
 > Jupyter Notebook files render interactively on GitHub. They include both code and explanation cells, so you can explore logic and output together.:contentReference[oaicite:1]{index=1}
 
 ---
 
-## 🔧 Prerequisites
+##  Prerequisites
 
 To run these notebooks locally, you’ll need:
 
