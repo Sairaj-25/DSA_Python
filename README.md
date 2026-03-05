@@ -1,6 +1,6 @@
-# 📓 Jupyter Notebook Codes
+# 📓 DSA_Python
 
-Welcome to **Jupyter Notebook Codes** — a collection of organized practice notebooks focused on Python programming, interview prep, coding problems, and more.
+Welcome to **DSA_Python** — a collection of organized practice notebooks focused on Python programming, interview prep, coding problems, and more.
 
 This repository contains a set of Jupyter notebooks that showcase solutions to coding challenges, problem sets, and interview preparations. It’s ideal for learners and developers who want to practice Python fundamentals in an interactive environment.
 
