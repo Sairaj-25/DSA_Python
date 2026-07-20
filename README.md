@@ -110,22 +110,6 @@ DSA_Python/
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Add new problem solutions
-- Improve existing explanations
-- Report issues or suggest enhancements
-- Share optimized algorithms
-
----
-
-## 📄 License
-
-This repository is open for educational purposes.
-
----
-
 ## ✨ Ideal For
 
 - 🎯 **Coding Practice**: Master DSA concepts through hands-on examples
@@ -134,9 +118,3 @@ This repository is open for educational purposes.
 - 📚 **Learning Resource**: Understand DSA with detailed explanations and working code
 
 ---
-
-## 📞 Contact & Support
-
-For questions or suggestions, feel free to open an issue or reach out!
-
-Happy Learning! 🚀
